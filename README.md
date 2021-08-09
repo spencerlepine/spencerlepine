@@ -1,3 +1,4 @@
+[![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine)
 [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine)
 [![Twitter:spencerlepine](https://img.shields.io/twitter/follow/spencerlepine?style=social)](https://twitter.com/spencerlepine)
 [![Linkedin:Spencer Lepine](https://img.shields.io/badge/-Spencer_Lepine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spencer-lepine/)](https://www.linkedin.com/in/spencerlepine/)
