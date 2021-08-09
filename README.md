@@ -13,7 +13,7 @@ Questions? Let's talk - [contact](mailto:contact@spencerlepine.com)
   <img align="left" alt="Spencer Lepine LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="spencerlepine" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="spencerlepine" />
 
 <!-- Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
