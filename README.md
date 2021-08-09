@@ -1,21 +1,22 @@
-[![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine)
-[![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine)
-[![Twitter:spencerlepine](https://img.shields.io/twitter/follow/spencerlepine?style=social)](https://twitter.com/spencerlepine)
-[![Linkedin:Spencer Lepine](https://img.shields.io/badge/-Spencer_Lepine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spencer-lepine/)](https://www.linkedin.com/in/spencerlepine/)
+[![visitors](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine)
 
-### Hello 👋
+Questions? Let's talk - [contact](mailto:contact@spencerlepine.com)
 
-<!--
-**spencerlepine/spencerlepine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Find me here:</p>
+<a href="https://medium.com/@spencerlepine">
+  <img align="left" alt="Spencer Lepine Medium" width="22px" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" />
+</a>
+<a href="https://twitter.com/spencerlepine">
+  <img align="left" alt="Spencer Lepine Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/spencer-lepine/">
+  <img align="left" alt="Spencer Lepine LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="spencerlepine" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Badges -->
+<!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
+<!-- [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine) -->
+<!-- [![Twitter:spencerlepine](https://img.shields.io/twitter/follow/spencerlepine?style=social)](https://twitter.com/spencerlepine) -->
+<!-- [![Linkedin:Spencer Lepine](https://img.shields.io/badge/-Spencer_Lepine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spencer-lepine/)](https://www.linkedin.com/in/spencerlepine/) -->
