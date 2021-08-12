@@ -15,7 +15,7 @@
 
 <p align="center">Questions? Let's talk - <a href="https://www.linkedin.com/in/spencer-lepine/">contact</a></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="spencerlepine" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="My GitHub Stats" />
 
 <!-- Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
