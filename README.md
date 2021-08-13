@@ -15,8 +15,10 @@
 
 <p align="center">Questions? Let's talk - <a href="https://www.linkedin.com/in/spencer-lepine/">contact</a></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="My GitHub Stats" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=spencerlepine&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Languages" /></p>
+  
 <!-- Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
 <!-- [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine) -->
