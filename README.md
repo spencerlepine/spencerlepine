@@ -18,7 +18,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=spencerlepine&show_icons=true&theme=gotham" alt="GitHub Stats" />
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=spencerlepine&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=spencerlepine&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact&hide=c%2B%2B,php,c%23" alt="Languages" /></p>
+  
+  
+
   
 <!-- Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
