@@ -1,9 +1,7 @@
 
 <div align="center">
-  <a href="https://github.com/spencerlepine">
-    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=spencerlepine&style=flat" />
-  </a>
   <a href="https://medium.com/@spencerlepine">
+    Blog
   </a>
   <a href="https://twitter.com/spencerlepine">
     <img alt="Spencer Lepine Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
