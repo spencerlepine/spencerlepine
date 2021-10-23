@@ -1,0 +1,23 @@
+{
+  "name": "spencerlepine",
+  "version": "1.0.0",
+  "description": "[![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerlepine/spencerlepine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencerlepine/spencerlepine/issues"
+  },
+  "homepage": "https://github.com/spencerlepine/spencerlepine#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0"
+  }
+}
