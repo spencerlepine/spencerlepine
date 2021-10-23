@@ -13,7 +13,7 @@ Let's connect! Reach me at: [hello@spencerlepine.com](mailto:hello@spencerlepine
 ## Also, enjoy this Shiba Inu:
 
 <a href="https://twitter.com/manyshiba">
-  <img style="max-height: 150px;" src="<IMAGE_LINK>" alt="Shiba Inu"></img>
+  <img height="200px" src="<IMAGE_LINK>" alt="Shiba Inu"></img>
 </a>
 
 _Updated Hourly from [The Dog CEO API](https://dog.ceo/)_
