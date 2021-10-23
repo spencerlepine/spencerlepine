@@ -1,19 +1,17 @@
+[![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)
 
-<div align="center">
-  <a href="https://medium.com/@spencerlepine">
-    Blog
-  </a>
-  <a href="https://twitter.com/spencerlepine">
-    <img alt="Spencer Lepine Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/spencer-lepine/">
-    <img alt="Spencer Lepine LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-<div>
+👋 Hello there! I'm Spencer, a Full-stack Software Engineer and recent Hack Reactor graduate.
 
-<p align="center">Questions? Let's talk - <a href="https://www.linkedin.com/in/spencer-lepine/">contact</a></p>
-  
-<!-- Social Badges -->
+Want to know more about me? [Check out my portfolio](https://spencerlepine.com/)
+
+Let's connect! Reach me at: [hello@spencerlepine.com](mailto:hello@spencerlepine.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/feed/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q)
+
+
+<!-- Old Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
 <!-- [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine) -->
 <!-- [![Twitter:spencerlepine](https://img.shields.io/twitter/follow/spencerlepine?style=social)](https://twitter.com/spencerlepine) -->
