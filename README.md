@@ -12,7 +12,7 @@ Let's connect! Reach me at: [hello@spencerlepine.com](mailto:hello@spencerlepine
 ## Also, enjoy this Shiba Inu:
 
 <a href="https://twitter.com/manyshiba">
-  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-2.jpg" alt="Shiba Inu"></img>
+  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-12.jpg" alt="Shiba Inu"></img>
 </a>
 
 _Updated Hourly from [The Dog CEO API](https://dog.ceo/)_
@@ -22,5 +22,5 @@ _Updated Hourly from [The Dog CEO API](https://dog.ceo/)_
 <!-- [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine) -->
 <!-- [![Twitter:spencerlepine](https://img.shields.io/twitter/follow/spencerlepine?style=social)](https://twitter.com/spencerlepine) -->
 <!-- [![Linkedin:Spencer Lepine](https://img.shields.io/badge/-Spencer_Lepine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spencer-lepine/)](https://www.linkedin.com/in/spencerlepine/) -->
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q)
- -->
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q) -->
+
