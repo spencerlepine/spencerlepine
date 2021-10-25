@@ -1,5 +1,5 @@
-[![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)
-
+<!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)
+ -->
 ## Hello there! I'm Spencer Lepine 👋
 
 <!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com) -->
