@@ -16,7 +16,7 @@ Want to know more about me? Check out [my portfolio site](https://spencerlepine.
   <img height="200px" src="<IMAGE_LINK>" alt="Shiba Inu"></img>
 </a>
 
-_Updated Hourly from [The Dog CEO API](https://dog.ceo/)_
+_Updated hourly from [The Dog CEO API](https://dog.ceo/)_
 
 <!-- Old Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
