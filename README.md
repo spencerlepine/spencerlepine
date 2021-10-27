@@ -10,10 +10,19 @@ Want to know more about me? Check out [my portfolio site](https://spencerlepine.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
 [![LinkedIn](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@spencerlepine.com)
 
-### Enjoy this Shiba Inu:
+### Tools & Technologies
+
+_`Front End:`_ Javascript (ES5/ES6+) || HTML5 || CSS3 || React || MaterialUI || Axios
+
+_`Back End:`_ Node.js || Express || PostgreSQL || Firebase || MongoDB || RESTful API
+
+_`Testing/Deployment:`_ Jest || Testing Library || K6 || AWS (EC2) || Docker || NGINX
+
+_`Developer Tools:`_  Vim || Git || NPM || Webpack || Babel
+### Behold, the almighty Shiba:
 
 <a href="https://twitter.com/manyshiba">
-  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-5.jpg" alt="Shiba Inu"></img>
+  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-18.jpg" alt="Shiba Inu"></img>
 </a>
 
 _Updated hourly from the [Dog CEO API](https://dog.ceo/)_
@@ -26,15 +35,15 @@ _Updated hourly from the [Dog CEO API](https://dog.ceo/)_
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q) -->
 
 
-<!-- 
+<!--
 [![LinkedIn](https://img.shields.io/badge/spencerlepine%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/spencerlepine/)](https://www.linkedin.com/in/spencerlepine/)
 [![GitHub](https://img.shields.io/badge/spencerlepine%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/spencerlepine)](https://github.com/spencerlepine)
 [![Salesforce](https://img.shields.io/badge/spencerlepine%20-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white&link=https://trailblazer.me/id/spencerlepine)](https://trailblazer.me/id/spencerlepine)
 [![Gmail](https://img.shields.io/badge/spencerlepine%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:hello@spencerlepine.com)](mailto:hellp@spencerlepine.com)
 [![Twitter](https://img.shields.io/badge/spencerlepine%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/spencerlepine/)](https://twitter.com/spencerlepine/) -->
 
+
 <!-- ### Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
