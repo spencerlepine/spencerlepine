@@ -8,7 +8,7 @@ Want to know more about me? Check out [my portfolio site](https://spencerlepine.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-lepine/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
-[![LinkedIn](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@spencerlepine.com)
+[![LinkedIn](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@spencerlepine.com)
 
 ### Tools & Technologies
 
