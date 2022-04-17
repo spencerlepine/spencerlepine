@@ -7,7 +7,7 @@
 Want to know more about me? Check out [my portfolio site](https://spencerlepine.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-lepine/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spencerlepine)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
 [![LinkedIn](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@spencerlepine.com)
 
 ### Tools & Technologies
@@ -22,7 +22,7 @@ _`Developer Tools:`_  Vim || Git || NPM || Webpack || Babel
 ### Behold, the almighty Shiba:
 
 <a href="https://twitter.com/manyshiba">
-  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-19.jpg" alt="Shiba Inu"></img>
+  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-17.jpg" alt="Shiba Inu"></img>
 </a>
 
 _Updated hourly from the [Dog CEO API](https://dog.ceo/)_
