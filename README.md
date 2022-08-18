@@ -8,21 +8,22 @@ Want to know more about me? Check out [my portfolio site](https://spencerlepine.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-lepine/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
-[![LinkedIn](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@spencerlepine.com)
+[![LinkedIn](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.sayhello@gmail.com)
 
 ### Tools & Technologies
 
-_`Front End:`_ Javascript (ES5/ES6+) || HTML5 || CSS3 || React || MaterialUI || Axios
+_`Front End:`_ Javascript (ES5/ES6+) || HTML || CSS || React || MaterialUI || Tailwind
 
 _`Back End:`_ Node.js || Express || PostgreSQL || Firebase || MongoDB || RESTful API
 
-_`Testing/Deployment:`_ Jest || Testing Library || K6 || AWS (EC2) || Docker || NGINX
+_`Testing/Deployment:`_ Jest || Testing Library || AWS (EC2) || Docker || NGINX
 
-_`Developer Tools:`_  Vim || Git || NPM || Webpack || Babel
+_`Developer Tools:`_  Vim || Git || Webpack || Babel || ESLint
+
 ### Behold, the almighty Shiba:
 
 <a href="https://twitter.com/manyshiba">
-  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-14.jpg" alt="Shiba Inu"></img>
+  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-10.jpg" alt="Shiba Inu"></img>
 </a>
 
 _Updated hourly from the [Dog CEO API](https://dog.ceo/)_
