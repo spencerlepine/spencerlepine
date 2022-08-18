@@ -12,13 +12,14 @@ Want to know more about me? Check out [my portfolio site](https://spencerlepine.
 
 ### Tools & Technologies
 
-_`Front End:`_ Javascript (ES5/ES6+) || HTML5 || CSS3 || React || MaterialUI || Axios
+_`Front End:`_ Javascript (ES5/ES6+) || HTML || CSS || React || MaterialUI || Tailwind
 
 _`Back End:`_ Node.js || Express || PostgreSQL || Firebase || MongoDB || RESTful API
 
-_`Testing/Deployment:`_ Jest || Testing Library || K6 || AWS (EC2) || Docker || NGINX
+_`Testing/Deployment:`_ Jest || Testing Library || AWS (EC2) || Docker || NGINX
 
-_`Developer Tools:`_  Vim || Git || NPM || Webpack || Babel
+_`Developer Tools:`_  Vim || Git || Webpack || Babel || ESLint
+
 ### Behold, the almighty Shiba:
 
 <a href="https://twitter.com/manyshiba">
