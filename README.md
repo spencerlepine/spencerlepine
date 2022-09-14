@@ -23,7 +23,7 @@ _`Developer Tools:`_  Vim || Git || Webpack || Babel || ESLint
 ### Behold, the almighty Shiba:
 
 <a href="https://twitter.com/manyshiba">
-  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-15.jpg" alt="Shiba Inu"></img>
+  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-3i.jpg" alt="Shiba Inu"></img>
 </a>
 
 _Updated hourly from the [Dog CEO API](https://dog.ceo/)_
