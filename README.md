@@ -11,7 +11,7 @@ Want to know more about me? Check out [my portfolio site](https://spencerlepine.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
 [![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.sayhello@gmail.com)
 
-[![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerlepine&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/spencerlepine)
+[![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerlepine&hide=stars&show_icons=true&theme=dark)](https://github.com/spencerlepine)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
