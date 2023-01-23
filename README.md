@@ -18,7 +18,7 @@ Want to know more about me? Check out [my portfolio site](https://spencerlepine.
 ### Behold, the almighty Shiba:
 
 <a href="https://twitter.com/manyshiba">
-  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-11.jpg" alt="Shiba Inu"></img>
+  <img height="200px" src="https://images.dog.ceo/breeds/shiba/shiba-7.jpg" alt="Shiba Inu"></img>
 </a>
 
 _Updated hourly from the [Dog CEO API](https://dog.ceo/)_
